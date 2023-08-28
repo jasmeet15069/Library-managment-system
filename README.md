@@ -18,5 +18,7 @@ For Admin Panel Open Your browser put inside browser “http://localhost/library
 Login Details for admin :
 Username : genesis
 Password : librarian
+# Screenshots
+![](https://github.com/psyclone20/Library/blob/master/screenshots/1.%20home.png) ![](https://github.com/psyclone20/Library/blob/master/screenshots/2.%20member_login.png) ![](https://github.com/psyclone20/Library/blob/master/screenshots/3.%20member_registration1.png) ![](https://github.com/psyclone20/Library/blob/master/screenshots/4.%20member_registration2.png) ![](https://github.com/psyclone20/Library/blob/master/screenshots/5.%20member_registration3.png) ![](https://github.com/psyclone20/Library/blob/master/screenshots/6.%20books1.png) ![](https://github.com/psyclone20/Library/blob/master/screenshots/7.%20books2.png) ![](https://github.com/psyclone20/Library/blob/master/screenshots/8.%20my_books.png) ![](https://github.com/psyclone20/Library/blob/master/screenshots/9.%20librarian_home.png) ![](https://github.com/psyclone20/Library/blob/master/screenshots/10.%20pending_registrations.png)
 
 
